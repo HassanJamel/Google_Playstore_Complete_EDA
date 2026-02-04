@@ -1,7 +1,7 @@
-
-
 <p align="center">
-  <img src="1.PNG" alt="  Google Play    " width="900"/>
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/google-playstore-complete-eda" target="_blank">
+    <img src="1.PNG" alt="Google Play" width="900">
+  </a>
 </p>
 
 
